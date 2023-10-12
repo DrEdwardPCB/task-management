@@ -12,7 +12,7 @@ to complete assignment
 
 ## live demo
 
-[live demo]()
+[live demo](https://jazzy-marigold-66c937.netlify.app/)
 
 # specification
 
